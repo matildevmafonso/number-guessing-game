@@ -21,7 +21,7 @@ This is a simple command-line game where the player tries to guess a randomly ge
 
 ## 📋 Requirements
 
-- 🐍 **Python 3.x**
+- ☕ **Java 17 or up installed**
 
 ## 📦 Installation
 
