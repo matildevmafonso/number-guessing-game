@@ -36,9 +36,12 @@ This is a simple command-line game where the player tries to guess a randomly ge
 
 ## ▶️ Usage
 
-Run the game using Python:
+Run the game using Java:
 ```sh
-python3 number_guessing_game.py
+javac NumberGuessingGame.java
+java NumberGuessingGame
+```
+
 ```
 
 ## 📄 License
